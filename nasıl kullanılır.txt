@@ -1,0 +1,7 @@
+-Öncelikle dosyayı python3 ile çalıştırın. Eğer bilgisayarınızda python3 yüklenmemişse https://www.python.org/downloads/ 
+adresinden bilgisayarınıza uygun olan versiyonu kurun. Eğer Linux kullanıcısıysanız uygulamayı çalıştırmak için 
+testkontrolcüsü.py dosyasının bulunduğu konumda terminal açıp terminale "python3 testkontrolcüsü.py" (tırnak işareti olmadan) yazınız.
+-Sonra soru sayısını pozitif tamsayı cinsinden giriniz. Girdikten sonra ENTER'a basınız
+-daha sonraonra soruların cevaplarını tek tek giriniz. Her cevabı girdikten sonra ENTER'a basınız.
+-Daha sonra yaptığınız cevapları giriniz. Her cevabı girdikten sonra ENTER'a basınız.
+-Son olarak testi çöz
