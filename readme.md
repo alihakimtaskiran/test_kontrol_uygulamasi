@@ -4,7 +4,7 @@
 <br>
 <p>-Kurulum gerekmeksizin exe'yi çalıştırıp test kontrolcüsünü kullanabilirsiniz.
 <br>
-2-)Python ile
+<h2>2-)Python ile</h2>
 <br>
 -Öncelikle dosyayı python3 ile çalıştırın. Eğer bilgisayarınızda python3 yüklenmemişse https://www.python.org/downloads/ 
   <br>
